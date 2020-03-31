@@ -1,0 +1,2 @@
+# Global-Warming-Prediction-using-Machine-Learning-in-Python
+As we all know global warming is affecting the earth and the main reason is the increase in temperature and here analyzing the increase and decrease in temperature through many aspects like major cities to developed and under developing countries where we get information about what are the main reason for temperature.  Through machine learning, predicting the future average temperature for developed and developing countries, performing data analytics on data and getting a quite brief idea about each insight.
